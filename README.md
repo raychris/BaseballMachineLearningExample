@@ -1,0 +1,2 @@
+# BaseballMachineLearningExample
+When I was a kid I collected baseball cards. My favorite team was the Oakland A's. In the late 1980's, the best part about the A's was the Bash Brothers, Jose Canseco and Mark McGwire. They were my baseball heroes. It turns out they were also pretty regular steroid users. We know from the Mitchell report that more than 80 other players were juicing too. I made a model that predicts which other sluggers may also have been using performance enhancing drugs based only on baseball performance stats.
